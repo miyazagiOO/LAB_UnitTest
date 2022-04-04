@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\obj\Debug\LAB UnitTest.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\obj\Debug\LAB UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\LAB UnitTest.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\LAB UnitTest.pdb
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\MyClassLibrary.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\bin\Debug\MyClassLibrary.pdb
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\obj\Debug\LAB UnitTest.csproj.CopyComplete
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\obj\Debug\LAB UnitTest.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\LAB UnitTest\obj\Debug\LAB UnitTest.pdb

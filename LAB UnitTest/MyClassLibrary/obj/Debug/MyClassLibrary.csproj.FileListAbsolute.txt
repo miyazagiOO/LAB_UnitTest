@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\MyClassLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\MyClassLibrary\bin\Debug\MyClassLibrary.pdb
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\MyClassLibrary\obj\Debug\MyClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\MyClassLibrary\obj\Debug\MyClassLibrary.dll
+C:\Users\Lenovo\Documents\GitHub\LAB_UnitTest\LAB UnitTest\MyClassLibrary\obj\Debug\MyClassLibrary.pdb
